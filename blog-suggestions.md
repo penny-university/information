@@ -6,7 +6,7 @@
 
 | name           | link                                                             | description                                   |
 | -------------- | ---------------------------------------------------------------- | --------------------------------------------- |
-| John Berryman  | [http://blog.jnbrymn.com/](http://blog.jnbrymn.com/)             | TODO @ John                                   |
+| John Berryman  | [http://blog.jnbrymn.com/](http://blog.jnbrymn.com/)             | Life on the Pareto Frontier      |
 | Alex Antonison | [http://alex-antonison.com/](http://alex-antonison.com/)         | Personal blog focused around working in data. |
 | Tim Dobbins    | [https://tmthyjames.github.io/](https://tmthyjames.github.io/)   | TODO @ Tim                                    |
 | Rob Harrigan   | [http://unsupervisedpandas.com/](http://unsupervisedpandas.com/) | TODO @ Rob                                    |
