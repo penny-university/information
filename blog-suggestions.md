@@ -6,12 +6,13 @@
 
 | name           | link                                                             | description                                   |
 | -------------- | ---------------------------------------------------------------- | --------------------------------------------- |
-| John Berryman  | [http://blog.jnbrymn.com/](http://blog.jnbrymn.com/)             | Life on the Pareto Frontier      |
+| John Berryman  | [http://blog.jnbrymn.com/](http://blog.jnbrymn.com/)             | Life on the Pareto Frontier                   |
 | Alex Antonison | [http://alex-antonison.com/](http://alex-antonison.com/)         | Personal blog focused around working in data. |
-| Tim Dobbins    | [https://tmthyjames.github.io/](https://tmthyjames.github.io/)   | TODO @ Tim                                    |
-| Rob Harrigan   | [http://unsupervisedpandas.com/](http://unsupervisedpandas.com/) | TODO @ Rob                                    |
-| Chang Lee      | [https://changhsinlee.com/](https://changhsinlee.com/)           | TODO @ Chang                                  |
-| Jason Myers    | [https://triplecookies.dev/](https://triplecookies.dev/)         | TODO @ Jason                                  |
+| Tim Dobbins    | [https://tmthyjames.github.io/](https://tmthyjames.github.io/)   |                                               |
+| Rob Harrigan   | [http://unsupervisedpandas.com/](http://unsupervisedpandas.com/) |                                               |
+| Chang Lee      | [https://changhsinlee.com/](https://changhsinlee.com/)           |                                               |
+| Jason Myers    | [https://triplecookies.dev/](https://triplecookies.dev/)         |                                               |
+| Nathan Brewer  | [https://calcumore.com](https://calcumore.com)                   |                                               |
 
 ### Sugested Blogs
 
