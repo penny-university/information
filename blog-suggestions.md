@@ -15,6 +15,7 @@
 | Nathan Brewer  | [Calcumore](https://calcumore.com)                        |                                               |
 | Nicole Johnson | [e-marginalia ](https://extendedmarginalia.wordpress.com) |                                               |
 | Adam Taylor    | [Whitebelt For Life](http://whitebeltforlife.com/)        |                                               |
+| Scott Hawley   | [https://drscotthawley.github.io/blog/](https://drscotthawley.github.io/blog/) |                          |
 
 ### Sugested Blogs
 
